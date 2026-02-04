@@ -1,0 +1,16 @@
+html{background-color: rgb(28, 126, 122);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
+
+img{
+    border: white, solid,5px;
+}
+h1{
+    color: white;
+    background-color: black;
+}
+h2{
+    color: white;
+    background-color: black;
+}
